@@ -1,2 +1,3 @@
-# horta-da-cooperativa.github.io
-Manual de Sobrevivência Para Labregos Urbanos
+# Horta da Cooperativa
+
+## Manual de Sobrevivência Para Labregos Urbanos
