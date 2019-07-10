@@ -1,15 +1,16 @@
 <!doctype html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="/assets/css/styles.css">
-    {% feed_meta %}
-    {% seo %}
-  </head>
+  {% include head.html %}
   <body>
-    <h1>{{ site.title }}</h1>
-    <p>{{ site.description }}</p>
-    {{ content }}
+
+    <div class="panel panel-header">
+
+    </div>
+
+    <div class="panel panel-content">
+      {{ content }}
+    </div>
+
+    {% include scripts.html %}
   </body>
 </html>

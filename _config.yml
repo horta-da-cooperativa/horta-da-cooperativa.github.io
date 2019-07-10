@@ -1,18 +1,31 @@
 # Site settings
-title: Horta da Cooperativa
-description: >-
-  Manual de Sobrevivência Para Labregos Humanos
-baseurl: ""
 url: "https://horta-da-cooperativa.github.io/"
-github_username:  horta-da-cooperativa
+title: Horta da Cooperativa
+description: Manual de Sobrevivência Para Labregos Urbanos
+lang: pt_PT
 
-# Plugins
+# Contact settings
+email: congolito@riseup.net
+github: horta-da-cooperativa
+
+# Jekyll settings
+permalink: /:title/
+paginate: 6
+paginate_path: /page:num/
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
-
-# Build settings
-markdown: kramdown
-plugins:
-  - jekyll-feed
+  - jekyll-paginate
+sass:
+    style: compressed
+include: [_pages]
+exclude: [README.md, LICENSE.md, Gemfile, Gemfile.lock]
