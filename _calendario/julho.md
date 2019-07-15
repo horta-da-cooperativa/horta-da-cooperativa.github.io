@@ -20,6 +20,7 @@ _Nevoeiro de S. Pedro, põe em Julho o vinho a medo._
 * [Menina][1]
 * [Porqueira][1]
 * [Alface][2]
+* [Acelgas][4]
 
 ### Colheita
 
@@ -30,3 +31,4 @@ _Nevoeiro de S. Pedro, põe em Julho o vinho a medo._
 [1]: /culturas/abobora/
 [2]: /culturas/alface/
 [3]: /culturas/alho/
+[4]: /culturas/acelgas/

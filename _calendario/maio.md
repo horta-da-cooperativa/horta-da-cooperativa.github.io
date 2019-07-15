@@ -9,6 +9,7 @@ tags:
   - porqueira
   - alface
   - alho
+  - acelgas
 ---
 
 ## Maio
@@ -21,6 +22,7 @@ _Quando Maio chegar, quem não arou tem de arar._
 * [Menina][1]
 * [Porqueira][1]
 * [Alface][2]
+* [Acelgas][2]
 
 ### Colheita
 
@@ -31,3 +33,4 @@ _Quando Maio chegar, quem não arou tem de arar._
 [1]: /culturas/abobora/
 [2]: /culturas/alface/
 [3]: /culturas/alho/
+[4]: /culturas/acelgas/

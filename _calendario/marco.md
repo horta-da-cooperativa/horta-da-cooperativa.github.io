@@ -6,6 +6,7 @@ tags:
   - abóbora
   - chila
   - alface
+  - acelgas
 ---
 
 ## Março
@@ -16,6 +17,8 @@ _Em Março, tanto durmo como faço._
 
 * [Chila][1]
 * [Alface][2]
+* [Acelgas][3]
 
 [1]: /culturas/abobora/
 [2]: /culturas/alface/
+[3]: /culturas/acelgas/
