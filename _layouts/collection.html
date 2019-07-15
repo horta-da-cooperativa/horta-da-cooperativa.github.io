@@ -1,17 +1,4 @@
 <!doctype html>
-<<<<<<< HEAD
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>{{ page.title }}</title>
-    {% feed_meta %}
-    {% seo %}
-  </head>
-  <body>
-    <h1>{{ site.title }}</h1>
-    <p>{{ site.description }}</p>
-    {{ content }}
-=======
 <html lang="{{ site.lang | split:"_" | first }}">
 
   {% include head.html %}
@@ -26,11 +13,13 @@
 
     <main>
       {% include main_menu.html %}
+      {% if page.image %}
+      <img class="featured-image" src="{{ site.url }}/assets/images/{{ page.image }}" alt="{{ page.title }}" title="{{ page.title }}">
+      {% endif %}
       {{ content }}
     </main>
 
     {% include scripts.html %}
 
->>>>>>> dev
   </body>
 </html>
