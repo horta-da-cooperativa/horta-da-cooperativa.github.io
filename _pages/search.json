@@ -11,7 +11,7 @@ permalink: /search.json
         "title"    : "{{ doc.title | escape }}",
         "category" : "{{ doc.category | join: ', ' }}",
         "tags"     : "{{ doc.tags | join: ', ' }}",
-        "url"      : "{{ site.baseurl }}{{ doc.url }}"
+        "url"      : "{{ doc.url }}"
       },
     {% endfor %}
   {% endfor %}
