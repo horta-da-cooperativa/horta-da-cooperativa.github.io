@@ -66,7 +66,7 @@ De Maio a Novembro
 
 Favoráveis:
 
-* [Abóbora]({{site.url}}/culturas/abobora/)
+* [Abóbora](/culturas/abobora/)
 * Acelga
 * Aipo
 * Alho

@@ -67,7 +67,7 @@ tags:
 
 Favoráveis:
 
-* [Alface]({{site.url}}/culturas/alface/)
+* [Alface](/culturas/alface/)
 * Acelgas
 * Chicória
 * Chagas
