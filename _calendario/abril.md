@@ -21,5 +21,5 @@ _Em Abril queima a velha o carro e o carril._
 * [Porqueira][1]
 * [Alface][2]
 
-[1]: {{site.url}}/culturas/abobora/
-[2]: {{site.url}}/culturas/alface/
+[1]: /culturas/abobora/
+[2]: /culturas/alface/

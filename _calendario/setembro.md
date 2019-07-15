@@ -21,5 +21,5 @@ _Em Setembro, ardem os montes, secam-se as fontes._
 * [Porqueira][1]
 * [Alface][2]
 
-[1]: {{site.url}}/culturas/abobora/
-[2]: {{site.url}}/culturas/alface/
+[1]: /culturas/abobora/
+[2]: /culturas/alface/

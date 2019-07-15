@@ -69,7 +69,7 @@ Favoráveis:
 * [Abóbora](/culturas/abobora/)
 * Acelga
 * Aipo
-* Alho
+* [Alho](/culturas/alho)
 * Beterraba
 * Alho-francês
 * Cebola

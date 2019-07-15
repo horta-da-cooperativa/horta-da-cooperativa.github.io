@@ -7,11 +7,16 @@ tags:
   - menina
   - porqueira
   - alface
+  - alho
 ---
 
 ## Novembro
 
 _Em Novembro, prova o vinho e planta o cebolinho._
+
+### Sementeira
+
+* [Alho][3]
 
 ### Colheita
 
@@ -19,5 +24,6 @@ _Em Novembro, prova o vinho e planta o cebolinho._
 * [Porqueira][1]
 * [Alface][2]
 
-[1]: {{site.url}}/culturas/abobora/
-[2]: {{site.url}}/culturas/alface/
+[1]: /culturas/abobora/
+[2]: /culturas/alface/
+[3]: /culturas/alho/

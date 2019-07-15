@@ -8,6 +8,7 @@ tags:
   - menina
   - porqueira
   - alface
+  - alho
 ---
 
 ## Maio
@@ -25,6 +26,8 @@ _Quando Maio chegar, quem não arou tem de arar._
 
 * [Chila][1]
 * [Alface][2]
+* [Alho][3]
 
-[1]: {{site.url}}/culturas/abobora/
-[2]: {{site.url}}/culturas/alface/
+[1]: /culturas/abobora/
+[2]: /culturas/alface/
+[3]: /culturas/alho/

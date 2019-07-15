@@ -6,6 +6,7 @@ tags:
   - abóbora
   - chila
   - alface
+  - alho
 ---
 
 ## Fevereiro
@@ -16,6 +17,8 @@ _Fevereiro quente, traz o diabo no ventre._
 
 * [Chila][1]
 * [Alface][2]
+* [Alho][3]
 
-[1]: {{site.url}}/culturas/abobora/
-[2]: {{site.url}}/culturas/alface/
+[1]: /culturas/abobora/
+[2]: /culturas/alface/
+[3]: /culturas/alho/

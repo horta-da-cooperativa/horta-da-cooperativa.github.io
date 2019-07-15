@@ -5,6 +5,7 @@ category: calendário
 tags:
   - abóbora
   - chila
+  - alho
 ---
 
 ## Janeiro
@@ -16,5 +17,7 @@ Preparam-se as terras para cultivo do ano.
 ### Sementeira
 
 * [Chila][1]
+* [Alho][2]
 
-[1]: {{site.url}}/culturas/abobora/
+[1]: /culturas/abobora/
+[2]: /culturas/alho/

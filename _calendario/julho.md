@@ -8,6 +8,7 @@ tags:
   - menina
   - porqueira
   - alface
+  - julho
 ---
 
 ## Julho
@@ -24,6 +25,8 @@ _Nevoeiro de S. Pedro, põe em Julho o vinho a medo._
 
 * [Chila][1]
 * [Alface][2]
+* [Alho][3]
 
-[1]: {{site.url}}/culturas/abobora/
-[2]: {{site.url}}/culturas/alface/
+[1]: /culturas/abobora/
+[2]: /culturas/alface/
+[3]: /culturas/alho/
