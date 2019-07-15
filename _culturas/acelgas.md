@@ -1,5 +1,5 @@
 ---
-title: Acelga
+title: Acelgas
 layout: collection
 category: culturas
 image: /acelgas/variedade.jpg
