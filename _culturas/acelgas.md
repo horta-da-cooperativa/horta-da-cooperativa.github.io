@@ -108,6 +108,7 @@ Necessita de poucos cuidados, mas:
 * Fósforo
 * Potássio
 * Sódio
+* Cálcio
 
 ### Indicações Terapêuticas
 
