@@ -1,15 +1,10 @@
 # Site settings
-<<<<<<< HEAD
-<<<<<<< HEAD
 title: Horta da Cooperativa
 description: >-
   Manual de Sobrevivência Para Labregos Humanos
 baseurl: ""
 url: "https://horta-da-cooperativa.github.io"
 github_username:  horta-da-cooperativa
-=======
-=======
->>>>>>> dev
 url: "https://horta-da-cooperativa.github.io/"
 title: Horta da Cooperativa
 description: Manual de Sobrevivência Para Labregos Urbanos
@@ -39,10 +34,6 @@ kramdown:
   entity_output: as_char
   toc_levels: 1..6
   enable_coderay: false
-<<<<<<< HEAD
->>>>>>> dev
-=======
->>>>>>> dev
 
 plugins:
   - jekyll-feed
