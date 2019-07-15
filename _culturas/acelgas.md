@@ -20,6 +20,18 @@ tags:
   - alecrim
   - salva
   - cebolinho
+  - vitamina a
+  - vitamina b
+  - vitamina k
+  - iodo
+  - ferro
+  - cálcio
+  - diabetes
+  - gravidez
+  - sopas
+  - refogados
+  - estufados
+  - guisados
 ---
 
 ## Acelgas
