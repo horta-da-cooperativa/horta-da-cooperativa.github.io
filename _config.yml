@@ -9,9 +9,17 @@ email: congolito@riseup.net
 github: horta-da-cooperativa
 
 # Jekyll settings
-permalink: /:title/
+permalink: /:year/:month/:day/:title/
+
 paginate: 6
 paginate_path: /page:num/
+
+collections:
+  calendario:
+    output: true
+  culturas:
+    output: true
+
 highlighter: rouge
 markdown: kramdown
 kramdown:
@@ -20,12 +28,15 @@ kramdown:
   entity_output: as_char
   toc_levels: 1..6
   enable_coderay: false
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-paginate
+
 sass:
     style: compressed
+
 include: [_pages]
 exclude: [README.md, LICENSE.md, Gemfile, Gemfile.lock]

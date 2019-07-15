@@ -13,6 +13,9 @@
 
     <main>
       {% include main_menu.html %}
+      {% if page.image %}
+      <img class="featured-image" src="{{ site.url }}/assets/images/{{ page.image }}" alt="{{ page.title }}" title="{{ page.title }}">
+      {% endif %}
       {{ content }}
     </main>
 

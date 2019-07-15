@@ -1,15 +1,20 @@
 ---
 layout: null
-permalink: search.json
+permalink: /search.json
 ---
 [
-  {% for post in site.posts %}
-    {
-      "title"    : "{{ post.title | escape }}",
-      "category" : "{{ post.category }}",
-      "tags"     : "{{ post.tags | join: ', ' }}",
-      "url"      : "{{ site.baseurl }}{{ post.url }}",
-      "date"     : "{{ post.date }}"
-    } {% unless forloop.last %},{% endunless %}
+  {% capture json %}
+  {% for collection in site.collections %}
+    {% if collection.docs.size == 0 %} {% continue %} {% endif %}
+    {% for doc in collection.docs %}
+      {
+        "title"    : "{{ doc.title | escape }}",
+        "category" : "{{ doc.category | join: ', ' }}",
+        "tags"     : "{{ doc.tags | join: ', ' }}",
+        "url"      : "{{ site.baseurl }}{{ doc.url }}"
+      },
+    {% endfor %}
   {% endfor %}
+  {% endcapture %}
+  {{ json | strip | split: "," | join: "," }}
 ]
