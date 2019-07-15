@@ -24,6 +24,7 @@ _Se queres ver o teu marido morto, dá-lhe couves em Agosto._
 * [Chila][1]
 * [Alface][2]
 * [Alho][3]
+* [Acelgas][4]
 
 [1]: /culturas/abobora/
 [2]: /culturas/alface/

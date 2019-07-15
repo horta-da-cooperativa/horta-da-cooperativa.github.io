@@ -8,7 +8,7 @@ tags:
   - menina
   - porqueira
   - alface
-  - julho
+  - acelgas
 ---
 
 ## Julho
@@ -27,6 +27,7 @@ _Nevoeiro de S. Pedro, põe em Julho o vinho a medo._
 * [Chila][1]
 * [Alface][2]
 * [Alho][3]
+* [Acelgas][4]
 
 [1]: /culturas/abobora/
 [2]: /culturas/alface/

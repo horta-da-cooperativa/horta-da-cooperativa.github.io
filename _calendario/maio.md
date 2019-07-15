@@ -22,13 +22,14 @@ _Quando Maio chegar, quem não arou tem de arar._
 * [Menina][1]
 * [Porqueira][1]
 * [Alface][2]
-* [Acelgas][2]
+* [Acelgas][4]
 
 ### Colheita
 
 * [Chila][1]
 * [Alface][2]
 * [Alho][3]
+* [Acelgas][4]
 
 [1]: /culturas/abobora/
 [2]: /culturas/alface/

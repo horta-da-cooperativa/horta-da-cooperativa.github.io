@@ -12,6 +12,14 @@ tags:
   - junho
   - julho
   - agosto
+  - cebola
+  - cenoura
+  - feijão
+  - rabanetes
+  - nabo
+  - alecrim
+  - salva
+  - cebolinho
 ---
 
 ## Acelgas
@@ -22,13 +30,25 @@ tags:
 
 ### Colheita
 
+* De Abril a Outubro
+
 ### Consociação
 
 Favoráveis:
 
+* Cebola
+* Cenoura
+* Couve
+* Feijão
+* Rabanetes
+* Nabo
+* Alecrim
+* Salva
+* Cebolinho
 
 Desfavoráveis:
 
+* Não se conhecem
 
 ### Cultivo
 

@@ -23,6 +23,10 @@ _Em Abril queima a velha o carro e o carril._
 * [Alface][2]
 * [Acelgas][3]
 
+### Colheita
+
+* [Acelgas][3]
+
 [1]: /culturas/abobora/
 [2]: /culturas/alface/
 [3]: /culturas/acelgas/
