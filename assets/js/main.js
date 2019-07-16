@@ -11,7 +11,7 @@
           "resultsContainer": document.getElementById('results-container'),
           "json": '/search.json',
           "noResultsText": "<li>Nenhum resultado...</li>",
-          "searchResultTemplate": '<li><a href="{{ site.url }}{url}">{title}</a></li>'
+          "searchResultTemplate": '<li class="list-inline-item"><a href="{{ site.url }}{url}">{title}</a></li>'
         });
 
 

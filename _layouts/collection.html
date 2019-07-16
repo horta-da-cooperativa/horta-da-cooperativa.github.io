@@ -5,16 +5,12 @@
 
   <body class="container">
 
-    <header>
-      <h1 class="title">{{ site.title }}</h1>
-      <p class="subtitle">{{ site.description }}</p>
-      {% include search.html %}
-    </header>
+    {% include header.html %}
 
     <main>
       {% include main_menu.html %}
       {% if page.image %}
-      <img class="featured-image" src="{{ site.url }}/assets/images/{{ page.image }}" alt="{{ page.title }}" title="{{ page.title }}">
+      <img class="img-fluid" src="{{ site.url }}/assets/images/{{ page.image }}" alt="{{ page.title }}" title="{{ page.title }}">
       {% endif %}
       {{ content }}
     </main>
