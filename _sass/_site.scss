@@ -1,13 +1,12 @@
 .container {
-  width: 320px;
+  width: 360px;
 }
 
 .site-title {
   @include text-hide;
-  margin-top: 1rem;
   background-image: url('/assets/images/logo.svg');
   background-repeat: no-repeat;
   background-size: contain;
-  background-position: center top;
-  height: 155px;
+  background-position: center bottom;
+  height: 190px;
 }
