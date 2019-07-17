@@ -5,6 +5,9 @@ category: culturas
 image: /abobora/variedade.jpg
 tags:
   - abóbora
+  - chila
+  - menina
+  - porqueira
   - janeiro
   - fevereiro
   - março
