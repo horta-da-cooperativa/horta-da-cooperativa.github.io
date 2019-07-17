@@ -10,6 +10,10 @@ tags:
   - abril
   - maio
   - junho
+  - julho
+  - agosto
+  - setembro
+  - outubro
   - hortaliças
   - erva cidreira
   - ervas aromáticas

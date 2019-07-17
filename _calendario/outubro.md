@@ -9,6 +9,7 @@ tags:
   - porqueira
   - alface
   - acelgas
+  - hortelã
 ---
 
 ## Outubro
@@ -22,7 +23,9 @@ _Em Outubro sê prudente: guarda pão, guarda semente._
 * [Porqueira][1]
 * [Alface][2]
 * [Acelgas][3]
+* [Hortelã][4]
 
 [1]: /culturas/abobora/
 [2]: /culturas/alface/
 [3]: /culturas/acelgas/
+[4]: /culturas/hortela/

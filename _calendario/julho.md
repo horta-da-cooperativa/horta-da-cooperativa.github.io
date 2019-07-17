@@ -9,6 +9,7 @@ tags:
   - porqueira
   - alface
   - acelgas
+  - hortelã
 ---
 
 ## Julho
@@ -28,8 +29,10 @@ _Nevoeiro de S. Pedro, põe em Julho o vinho a medo._
 * [Alface][2]
 * [Alho][3]
 * [Acelgas][4]
+* [Hortelã][5]
 
 [1]: /culturas/abobora/
 [2]: /culturas/alface/
 [3]: /culturas/alho/
 [4]: /culturas/acelgas/
+[5]: /culturas/hortela/

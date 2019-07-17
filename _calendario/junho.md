@@ -10,6 +10,7 @@ tags:
   - alface
   - alho
   - acelgas
+  - hortelã
 ---
 
 ## Junho
@@ -34,6 +35,7 @@ _Junho calmoso, ano formoso._
 * [Alface][2]
 * [Alho][3]
 * [Acelgas][4]
+* [Hortelã][5]
 
 [1]: /culturas/abobora/
 [2]: /culturas/alface/
