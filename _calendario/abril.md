@@ -9,6 +9,7 @@ tags:
   - porqueira
   - alface
   - acelgas
+  - hortelã
 ---
 
 ## Abril
@@ -23,6 +24,10 @@ _Em Abril queima a velha o carro e o carril._
 * [Alface][2]
 * [Acelgas][3]
 
+### Plantio
+
+* [Hortelã][4]
+
 ### Colheita
 
 * [Acelgas][3]
@@ -30,3 +35,4 @@ _Em Abril queima a velha o carro e o carril._
 [1]: /culturas/abobora/
 [2]: /culturas/alface/
 [3]: /culturas/acelgas/
+[4]: /culturas/hortela/

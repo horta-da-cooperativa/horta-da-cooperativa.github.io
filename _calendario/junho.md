@@ -24,6 +24,10 @@ _Junho calmoso, ano formoso._
 * [Alface][2]
 * [Acelgas][4]
 
+### Plantio
+
+* [Hortelã][5]
+
 ### Colheita
 
 * [Chila][1]
@@ -35,3 +39,4 @@ _Junho calmoso, ano formoso._
 [2]: /culturas/alface/
 [3]: /culturas/alho/
 [4]: /culturas/acelgas/
+[5]: /culturas/hortela/
