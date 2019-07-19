@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="{{ site.lang | split:"_" | first }}">
+
+  {% include head.html %}
+
+  <body class="container">
+
+    {% include header.html %}
+
+    <main>
+      {% include main_menu.html %}
+      {% if page.image %}
+      <img class="img-fluid" src="{{ site.url }}/assets/images/{{ page.image }}" alt="{{ page.title }}" title="{{ page.title }}">
+      {% endif %}
+      <h2>{{ page.title }}</h2>
+      <p>Receita para {{ page.makes }}.</p>
+      <p><strong>Atenção:</strong> esterilizar todo o equipamento antes de usar. A ideia é fazer vinho e não vinagre...</p>
+      {% include ingredients.html %}
+      {{ content }}
+    </main>
+
+    {% include scripts.html %}
+
+  </body>
+</html>

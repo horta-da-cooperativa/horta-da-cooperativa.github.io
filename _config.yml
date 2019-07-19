@@ -21,6 +21,8 @@ collections:
     output: true
   culturas:
     output: true
+  fermentos:
+    output: true
 
 highlighter: rouge
 markdown: kramdown
