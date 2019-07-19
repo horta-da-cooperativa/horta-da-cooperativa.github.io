@@ -12,8 +12,6 @@ tags:
   - hortelã
 ---
 
-## Abril
-
 _Em Abril queima a velha o carro e o carril._
 
 ### Sementeira

@@ -10,8 +10,6 @@ tags:
   - hortela
 ---
 
-## Março
-
 _Em Março, tanto durmo como faço._
 
 ### Sementeira

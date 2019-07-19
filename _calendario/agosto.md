@@ -11,8 +11,6 @@ tags:
   - hortelã
 ---
 
-## Agosto
-
 _Se queres ver o teu marido morto, dá-lhe couves em Agosto._
 
 ### Sementeira

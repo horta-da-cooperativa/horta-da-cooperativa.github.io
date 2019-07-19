@@ -49,8 +49,6 @@ tags:
   - sumo
 ---
 
-## Alface
-
 ### Sementeira
 
 De Fevereiro a Agosto.

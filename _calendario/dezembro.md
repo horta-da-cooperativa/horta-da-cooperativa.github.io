@@ -9,8 +9,6 @@ tags:
   - alho
 ---
 
-## Dezembro
-
 _Dezembro frio, calor no estio._
 
 ### Sementeira

@@ -34,8 +34,6 @@ tags:
   - guisados
 ---
 
-## Acelgas
-
 ### Sementeira
 
 * De Fevereiro a Agosto

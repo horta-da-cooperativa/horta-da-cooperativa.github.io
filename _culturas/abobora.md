@@ -52,8 +52,6 @@ tags:
   - cerveja
 ---
 
-## Abóbora
-
 ### Sementeira
 
 * Chila: Janeiro a Junho

@@ -12,8 +12,6 @@ tags:
   - hortelã
 ---
 
-## Setembro
-
 _Em Setembro, ardem os montes, secam-se as fontes._
 
 ### Colheita

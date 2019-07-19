@@ -9,6 +9,7 @@
 
     <main>
       {% include main_menu.html %}
+      <h2>{{ page.title }}</h2>
       {% if page.image %}
       <img class="img-fluid" src="{{ site.url }}/assets/images/{{ page.image }}" alt="{{ page.title }}" title="{{ page.title }}">
       {% endif %}

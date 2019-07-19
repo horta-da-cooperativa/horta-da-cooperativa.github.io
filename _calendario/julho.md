@@ -12,8 +12,6 @@ tags:
   - hortelã
 ---
 
-## Julho
-
 _Nevoeiro de S. Pedro, põe em Julho o vinho a medo._
 
 ### Sementeira

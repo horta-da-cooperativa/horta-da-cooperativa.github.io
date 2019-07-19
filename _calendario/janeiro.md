@@ -8,8 +8,6 @@ tags:
   - alho
 ---
 
-## Janeiro
-
 _Janeiro greleiro não enche celeiro._
 
 Preparam-se as terras para cultivo do ano.

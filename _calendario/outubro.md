@@ -12,8 +12,6 @@ tags:
   - hortelã
 ---
 
-## Outubro
-
 _Em Outubro sê prudente: guarda pão, guarda semente._
 
 ### Colheita

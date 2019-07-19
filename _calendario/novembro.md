@@ -10,8 +10,6 @@ tags:
   - alho
 ---
 
-## Novembro
-
 _Em Novembro, prova o vinho e planta o cebolinho._
 
 ### Sementeira

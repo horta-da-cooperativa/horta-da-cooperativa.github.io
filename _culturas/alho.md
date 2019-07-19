@@ -25,8 +25,6 @@ tags:
   - conservas
 ---
 
-## Alho
-
 ### Sementeira
 
 De Novembro a Fevereiro.

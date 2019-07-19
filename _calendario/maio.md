@@ -13,8 +13,6 @@ tags:
   - hortelã
 ---
 
-## Maio
-
 _Quando Maio chegar, quem não arou tem de arar._
 
 ### Sementeira

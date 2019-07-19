@@ -11,8 +11,6 @@ tags:
   - hortelã
 ---
 
-## Fevereiro
-
 _Fevereiro quente, traz o diabo no ventre._
 
 ### Sementeira

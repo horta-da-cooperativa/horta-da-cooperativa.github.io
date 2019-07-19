@@ -29,8 +29,6 @@ tags:
   - vinho
 ---
 
-## Hortelã
-
 ### Plantação
 
 Entre Fevereiro e Junho.

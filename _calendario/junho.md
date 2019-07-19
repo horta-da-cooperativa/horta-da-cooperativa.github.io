@@ -13,8 +13,6 @@ tags:
   - hortelã
 ---
 
-## Junho
-
 _Junho calmoso, ano formoso._
 
 ### Sementeira
