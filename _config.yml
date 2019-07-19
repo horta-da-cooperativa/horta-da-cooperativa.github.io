@@ -23,6 +23,8 @@ collections:
     output: true
   fermentos:
     output: true
+  pragas:
+    output: true
 
 highlighter: rouge
 markdown: kramdown
