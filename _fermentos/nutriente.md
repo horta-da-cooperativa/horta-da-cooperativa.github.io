@@ -17,6 +17,7 @@ ingredients:
   - 1 tomate com casca
   - 1 colher de chá de chá preto
 ---
+
 {% include image.html src="/assets/images/nutriente/ingredientes.jpg" alt="Ingredientes do nutriente" title="Ingredientes" %}
 
 ### Preparação
