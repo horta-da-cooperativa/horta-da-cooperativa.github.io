@@ -7,7 +7,7 @@ tags:
   - arroz
 makes: 10 litros
 ingredients:
-  - 1Kg de arroz
+  - 2Kg de arroz
   - 1kg de sultanas
   - 2Kg de açucar
   - 1 limão
