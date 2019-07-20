@@ -8,7 +8,7 @@ tags:
 image: /hortela/produto.jpg
 makes: 10 litros
 ingredients:
-  - 2 copos altos de folha de hortelã
+  - 1 vaso de folhas de hortelã
   - 2Kg de açucar
   - 1 chávena de sultanas
   - 1 chávena de chá preto
